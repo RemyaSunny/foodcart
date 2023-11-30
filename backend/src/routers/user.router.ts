@@ -79,5 +79,4 @@ router.post('/register', asyncHandler(
     };
   }
 
-
   export default router;
